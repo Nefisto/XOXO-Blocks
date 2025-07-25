@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1fd9bab60b04016b70d37f9f6dfe568, type: 3}
+  m_Name: Collumn
+  m_EditorClassIdentifier: 
+  shouldMirror: 0
+  additionalRotations: 0
+  <IsBomb>k__BackingField: 0
+  colorToTileKind:
+    keyData:
+    - serializedVersion: 2
+      rgba: 65280
+    - serializedVersion: 2
+      rgba: 65535
+    - serializedVersion: 2
+      rgba: 16711680
+    - serializedVersion: 2
+      rgba: 0
+    valueData: 01000000020000000300000000000000
+  pieceTexture: {fileID: 2800000, guid: df8c1a004b0d8fb40aef230aecad1d55, type: 3}

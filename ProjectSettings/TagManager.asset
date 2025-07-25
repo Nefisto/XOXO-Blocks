@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grid Tile
+  - Piece
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Hoverable
+  - Cloud
+  - ParalaxCollider
+  - PostProcessing
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1409014013
+    locked: 0
+  - name: Gameplay
+    uniqueID: 966138985
+    locked: 0
+  - name: Grid
+    uniqueID: 1518194837
+    locked: 0
+  - name: Pieces
+    uniqueID: 2945627095
+    locked: 0
+  - name: Line point
+    uniqueID: 1685292251
+    locked: 0
+  - name: End screen
+    uniqueID: 1254861665
+    locked: 0
+  - name: Menu
+    uniqueID: 4031414367
+    locked: 0
+  - name: Room info
+    uniqueID: 2212260205
+    locked: 0
+  - name: Fading screen
+    uniqueID: 1973832941
+    locked: 0
+  - name: Debug
+    uniqueID: 407638751
+    locked: 0
+  m_RenderingLayers:
+  - Default
